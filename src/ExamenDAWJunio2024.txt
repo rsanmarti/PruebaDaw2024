@@ -1,6 +1,8 @@
-Ejercicio 1:
+De bases de datos:
+Hacer una consulta SQL de 1000 líneas
 
-Ejercicio 2:
+De sistemas:
+pf vas a flipar
 
-Ejercicio 3:
-a
+De entornos:
+hacer un push (10 puntos)
