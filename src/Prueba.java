@@ -12,4 +12,8 @@ public class Prueba {
 		System.out.println("hola mundo 33 5");
 	}
 
+	
+	public void inicio() {
+		System.out.println("hola");
+	}
 }
