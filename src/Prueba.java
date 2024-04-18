@@ -10,6 +10,9 @@ public class Prueba {
 		// TODO Esbozo de método generado automáticamente
 
 		System.out.println("hola mundo 33 5555");
+		
+		System.out.println("hola mundo 33 5555");
+		
 	}
 
 	
